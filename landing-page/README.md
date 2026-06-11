@@ -3,7 +3,7 @@
 This is a simple landing page project created as part of The Odin Project Foundations course.
 
 ## Skills practiced
-
+ 
 - HTML structure
 - CSS styling
 - Flexbox layout
