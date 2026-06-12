@@ -96,7 +96,7 @@ rel je za relaciju izmedju tr stranice i linkovanog doc
 
 OVO MI NISTA NIJE JASNO ---->
 - good commit messages (on GitHub)
-to ti mogu gledati ako apliciras za posao recimo, istoriju commit-ova na gh
+to mozes da provjeris, istoriju commit-ova na gh
 Having a good commit message history will allow you (or other developers working on your code) to quickly see what changes were made and why. This is useful if a bug is found in the code that needs to be fixed!
 example of a bad commit message:
 fix a bug
