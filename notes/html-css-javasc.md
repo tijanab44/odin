@@ -66,7 +66,7 @@ Shortcuts: za fajl sa .html ekstenzijom, mozes da iskoristis shortcut ! + Enter 
 
 suma sumarum: 
 doctype nam sluzi za verziju html-a
-boilerplate znaci sablon, mozes ga dobiti tako sto ces kliknuti ! + Enter i voila tu je sablon
+boilerplate znaci sablon, mozes ga dobiti tako sto ces kliknuti **! + Enter** i voila imas sablon 
 
 unutar body najcesce pravimo ove sekcije, i da se podsjetim
 <p> za paragraf </p>, <strong> bold tekst </strong>, <h1> ili <h2> ili.. <em> italic </em> ,  
@@ -94,7 +94,7 @@ rel je za relaciju izmedju tr stranice i linkovanog doc
 <img src="../images/dog.jpg">
 -Besides the src attribute, every image element should also have an alt (alternative text) attribute. -koristi se da opise sliku
 
-OVO MI NISTA NIJE JASNO ---->
+Ovo mi nista nije jadno ---->
 - good commit messages (on GitHub)
 to mozes da provjeris, istoriju commit-ova na gh
 Having a good commit message history will allow you (or other developers working on your code) to quickly see what changes were made and why. This is useful if a bug is found in the code that needs to be fixed!
@@ -104,6 +104,6 @@ dobar commit:
 Add missing link and alt text to the company's logo
 Screen readers won't read the images to users with disabilities without this information.
 -When writing code, it’s considered best practice to commit every time you have a meaningful change in the code. This will create a timeline of your progress and show that your finished code didn’t appear out of nowhere.
-(Koliko sam shvatila, commit je ova poruka da znas sta si promijenila..?? i treba commit-ovati (cuvati) svaki pt kada nesto znacajno uradis - promijenis u kodu)
+(Koliko sam shvatila, commit je ova poruka da znas sta si promijenila..?? i treba commit-ovati (cuvati) svaki put kada nesto znacajno uradis - promijenis u kodu)
 
 
