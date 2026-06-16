@@ -69,7 +69,7 @@ doctype nam sluzi za verziju html-a
 boilerplate znaci sablon, mozes ga dobiti tako sto ces kliknuti **! + Enter** i voila imas sablon 
 
 unutar body najcesce pravimo ove sekcije, i da se podsjetim
-<p> za paragraf </p>, <strong> bold tekst </strong>, <h1> ili <h2> ili za italic em unutar uglastih zagrada.............................
+<p> za paragraf </p>, <strong> bold tekst </strong>, h1 ili h2 ili za italic em UNUTAR UGLASTIH ZAGRADA SVE.......................
 <p>Lorem ipsum <em>dolor sit</em> amet, consectetur adipiscing elit.</p> ---> ovo je nesting elements (el unutar el)
 parent /child
 
