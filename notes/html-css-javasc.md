@@ -94,7 +94,7 @@ rel je za relaciju izmedju tr stranice i linkovanog doc
 <img src="../images/dog.jpg">
 -Besides the src attribute, every image element should also have an alt (alternative text) attribute. -koristi se da opise sliku
 
-Ovo mi nista nije jadno ---->
+Ovo mi nista nije jasno ---->
 - good commit messages (on GitHub)
 to mozes da provjeris, istoriju commit-ova na gh
 Having a good commit message history will allow you (or other developers working on your code) to quickly see what changes were made and why. This is useful if a bug is found in the code that needs to be fixed!
@@ -106,4 +106,34 @@ Screen readers won't read the images to users with disabilities without this inf
 -When writing code, it’s considered best practice to commit every time you have a meaningful change in the code. This will create a timeline of your progress and show that your finished code didn’t appear out of nowhere.
 (Koliko sam shvatila, commit je ova poruka da znas sta si promijenila..?? i treba commit-ovati (cuvati) svaki put kada nesto znacajno uradis - promijenis u kodu)
 
+JavaSC [case sensitive]
+-to make the webpage interactive
+-declaring variables with let and const
+-The simplest way to get started is to create an HTML file with the JavaScript code inside of it. Use the VS Code snippet ! + TAB to create the basic HTML skeleton in a file on your computer somewhere. Be sure to include the <script> tag
 
+let koristimo kada imamo varijablu koju bi posle mogli i da promijenimo recimo :
+let age = 10;
+age = 30;
+a kada zelimo da varijabla ostane ista npr pi = 3.14 stavljamo const
+const pi = 3.14;
+[ -let, which we can re-assign.
+  -const which we can’t re-assign ]
+
+dakle, let, const i var(slicno kao let.. it is not used anymore)
+
+varijable trebaju da se sastoje samo od slova, brojeva(samo da ne pocinje brojem) i karakteri $ i _
+
+alert(2 + 2 + '1' ); // "41" and not "221"
+alert('1' + 2 + 2); // "122" and not "14"
+alert( 6 - '2' ); // 4, converts '2' to a number
+alert( '6' / '2' ); // 3, converts both operands to numbers
+let y = -2;
+alert( +y ); // -2
+
+increment -> ++ decrement--> --
+What’s the difference between prefixing and postfixing increment/decrement operators?
+-kada je prefix, onda se doda/oduzme 1 i to se ubraja u rezultat, a ako je post(sufix) onda je vrijesnost rezultata ostaje ona sto je bila pa nakon sto se upise ta vr, onda se poveca tek za 1
+% ost pri dijeljenju 
+
+
+Node.js (or just “Node”) is a JavaScript runtime environment that allows you to run JavaScript outside of your web browser.
