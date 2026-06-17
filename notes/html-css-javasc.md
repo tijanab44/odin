@@ -1,4 +1,4 @@
-Odin project
+ Odin project
 
 Web page - A document that can be displayed in a web browser. These are also often called just "pages". Such documents are written in the HTML language
 Website - A collection of web pages grouped together into a single resource, with links connecting them together. Often called a "site".
@@ -137,3 +137,24 @@ What’s the difference between prefixing and postfixing increment/decrement ope
 
 
 Node.js (or just “Node”) is a JavaScript runtime environment that allows you to run JavaScript outside of your web browser.
+that allows you to run JavaScript outside of your web browser.
+
+A value in JavaScript is always of a certain type.
+There are eight basic data types in JavaScript.
+We can put any type in a variable.
+
+NUMBER type
+STRING type
+let str = "Hello";
+let str2 = 'Single quotes are ok too';
+let phrase = `can embed another ${str}`;
+BOOLEAN
+NULL
+UNDEFINED
+The meaning of undefined is “value is not assigned”
+If a variable is declared, but not assigned, then its value is undefined
+OBJECT (do sad su bili 'primitivni' tipovi, jer njihova vrijednost moze da sadrzi samo jednu stvar-string, broj..)
+Type of operator - 
+
+
+
